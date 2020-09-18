@@ -97,5 +97,5 @@ Jean Gaillon - [> LinkedIn <](https://www.linkedin.com/in/jean-gaillon-954018153
 [issues-shield]: https://img.shields.io/github/issues/Nafiros/repo.svg?style=flat-square
 [issues-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues
 [license-shield]: https://img.shields.io/github/license/Nafiros/repo.svg?style=flat-square
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jean-gaillon-954018153/
