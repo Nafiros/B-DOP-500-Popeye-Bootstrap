@@ -1,7 +1,8 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![GitHub forks](https://img.shields.io/github/forks/Nafiros/B-DOP-500-Popeye-Bootstrap?style=for-the-badge)](https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/network)
+[![GitHub stars](https://img.shields.io/github/stars/Nafiros/B-DOP-500-Popeye-Bootstrap?style=for-the-badge)](https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Nafiros/B-DOP-500-Popeye-Bootstrap?style=for-the-badge)](https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues)
+[![GitHub license](https://img.shields.io/github/license/Nafiros/B-DOP-500-Popeye-Bootstrap?style=for-the-badge)](https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
