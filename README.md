@@ -81,21 +81,11 @@ docker-compose up
 <!-- CONTACT -->
 ## Contact
 
-Jean Gaillon - [> LinkedIn <](https://www.linkedin.com/in/jean-gaillon-954018153/)
+Jean Gaillon - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Nafiros/repo.svg?style=flat-square
-[contributors-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Nafiros/repo.svg?style=flat-square
-[forks-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/network/members
-[stars-shield]: https://img.shields.io/github/stars/Nafiros/repo.svg?style=flat-square
-[stars-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Nafiros/repo.svg?style=flat-square
-[issues-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues
-[license-shield]: https://img.shields.io/github/license/Nafiros/repo.svg?style=flat-square
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jean-gaillon-954018153/
