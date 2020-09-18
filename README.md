@@ -62,8 +62,6 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 You just need to install Docker Desktop or docker and docker-compose :)
-Be carefull with conflict, 
-This build create a volumes named db-data. If you already have one on your machine it's recommended to prune it before.
 
 ### Installation
 
