@@ -88,4 +88,5 @@ Jean Gaillon - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jean-gaillon-954018153/
