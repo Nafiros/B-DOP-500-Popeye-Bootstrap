@@ -10,13 +10,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img href="https://developers.redhat.com/blog/wp-content/uploads/2015/01/docker-whale-home-logo.png" alt="Logo" width="150" height="100">
+    <img src="https://developers.redhat.com/blog/wp-content/uploads/2015/01/docker-whale-home-logo.png" alt="Logo" width="150" height="100">
   </a>
 
   <h3 align="center">B-DOP-500-Popeye-Bootstrap</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Popeye bootstrap - Initiation to Docker
     <br />
     <br />
     ·
