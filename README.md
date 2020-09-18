@@ -1,8 +1,8 @@
-[![Contributors][contributors-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/network/members]
-[![Stargazers][stars-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/stargazers]
-[![Issues][issues-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jean-gaillon-954018153/]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -90,15 +90,14 @@ Jean Gaillon - [> LinkedIn <](https://www.linkedin.com/in/jean-gaillon-954018153
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+[contributors-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
+[forks-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
+[stars-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
+[issues-url]: https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/jean-gaillon-954018153/
