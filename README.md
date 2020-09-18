@@ -81,7 +81,7 @@ docker-compose up
 <!-- CONTACT -->
 ## Contact
 
-Jean Gaillon - [![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] 
 
 
 
