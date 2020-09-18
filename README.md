@@ -1,8 +1,8 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/network/members]
+[![Stargazers][stars-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/stargazers]
+[![Issues][issues-shield]][https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jean-gaillon-954018153/]
 
 
 
@@ -19,7 +19,6 @@
     Popeye bootstrap - Initiation to Docker
     <br />
     <br />
-    ·
     <a href="https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues">Report Bug</a>
     ·
     <a href="https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap/issues">Request Feature</a>
